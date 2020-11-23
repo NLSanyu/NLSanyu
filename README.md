@@ -1,6 +1,8 @@
 ### Hello, world 👋
 
-Here are some ideas to get you started:
+My name is Lydia, a Software Developer. 
+
+A bit about me:
 
 - 🔭 I’m currently working on data pipelines for some cool AI projects :fire:
 - 🌱 I’m currently learning Machine Learning (particularly Deep Learning - Neural Networks and Hyperparameter tuning) :sparkles:
