@@ -1,6 +1,6 @@
 ### Hello, world 👋
 
-My name is Lydia, a Software Developer working in Data Engineering and Data Analysis.
+My name is Lydia, a Software Engineer working in Data Engineering and Data Analysis.
 
 A bit of info about me:
 - 🔭 My current work involves building data pipelines for Machine Learning projects, using Data Engineering and Data Analysis tools
