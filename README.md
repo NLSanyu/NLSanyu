@@ -1,7 +1,3 @@
 ### Hello, world 👋
 
-I'm Lydia, a Software Engineer that is interested in Data Engineering, Data Governance, data protection and privacy.
-
-A bit of info about my work:
-- My current work involves building, maintaining and automating data pipelines for data and AI projects
-- I’m looking to collaborate on open source projects related to Data and AI
+I'm Lydia, a Software Engineer that has experience in data engineering and is also interested in data governance, data protection and data privacy.
